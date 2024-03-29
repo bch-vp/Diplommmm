@@ -8,7 +8,7 @@ Client| ilya_user | Aa123  |
 Admin| ilya_admin | Aa123 |
 #
 ### Application description
-   The application is built on the use of AJAX, which means that all HTTP requests, such as getting, 
+   THE application is built on the use of AJAX, which means that all HTTP requests, such as getting, 
    updating and removing data, occur completely asynchronously. Built three independent client
    applications (SPA) using Vue.js for such users as GUEST, CLIENT, ADMIN. Jsp is used as an entry point 
    into vue.js application. Built custom connection pool to get all available connections 
